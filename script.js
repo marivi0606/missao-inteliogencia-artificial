@@ -6,15 +6,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma língua diferente da que você está acostumado, um idioma que parece totalmente iferente do que você já escutou, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Você foi recrutado por um caçador de túmulos para desvendar os segredos dos túmulos do deserto de Badain Jaran na China, esse deserto é conhecido por ser perigoso e mortal, mas a recompensa é mais de um milhão e você está precisando do dinheiro. Qual o seu primeiro pensamento?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "Você ficou hesitante mas aceita.",
+                afirmacao: "Como você aceitou ele te deu vários equipamentos e dicas. "
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "Você recusa na hora",
+                afirmacao: "Você foi embora, mas foi sequestrado pelo caçador."
             }
         ]
     },
