@@ -13,8 +13,8 @@ const perguntas = [
                 afirmacao: "Como você aceitou ele te deu vários equipamentos e dicas. "
             },
             {
-                texto: "Você recusa na hora",
-                afirmacao: "Você foi embora, mas foi sequestrado pelo caçador."
+                texto: "Você recusa na hora, mas acontece algo com você que te faz aceitar",
+                afirmacao: "Você foi embora, mas foi sequestrado pelo caçador e ele te ameaçou, você acaba aceitando."
             }
         ]
     },
